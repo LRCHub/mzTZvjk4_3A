@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "NATIVE STRANGER",
+  "base_artist": "KYOSUKE HIMURO",
+  "createdAt": "2025-12-09T08:50:37.406408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Native Stranger",
+      "artist": "Jerusha Rai",
+      "has_synced": true,
+      "path": "select/01_Native_Stranger_Jerusha_Rai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NATIVE STRANGER - Jerusha Rai",
+      "artist": "Jerusha Rai",
+      "has_synced": true,
+      "path": "select/02_NATIVE_STRANGER_-_Jerusha_Rai_Jerusha_Rai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NATIVE STRANGER",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_01_NATIVE_STRANGER_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "NATIVE STRANGER",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_02_NATIVE_STRANGER_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Native Stranger",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_03_Native_Stranger_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Native Stranger",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_04_Native_Stranger_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Native Stranger",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_05_Native_Stranger_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "NATIVE STRANGER",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_06_NATIVE_STRANGER_氷室_京介.txt"
+    }
+  ]
+}
